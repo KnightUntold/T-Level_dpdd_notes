@@ -1,0 +1,9 @@
+A constant is a value that DOESNT change whilst the program is run. Eg PI = 3.14  
+
+You can check a variables type using the type() function.  
+
+Data types are important but are also declared when needed in an program  
+
+ 
+
+Eg phone numbers have to be strings 
