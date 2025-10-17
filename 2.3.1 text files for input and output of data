@@ -1,0 +1,39 @@
+ 
+
+Before a text file can be used: 
+
+  If the file doesn’t already exist it must be created  f = open("file.txt", 'x') 
+  
+  It must be opened for writing f = open("file.txt", 'w')  
+  
+  Data must be written to the file f.write("text here") 
+  
+  It must be closed once data has been written to the file f.close() 
+
+Once the text file is created, it can be read by: 
+
+  Opening it for reading   f = open("file.txt", 'r') 
+  
+  Reading the data print(f.read()) 
+  
+  Closing the file f.close() 
+
+ 
+
+'w+' In python if a file doesn’t exist. It needs to be created before we can write data onto it. 'w+' allows for a file to be created then written on.  
+
+ 
+
+x= open('file.txt', 'w+') 
+
+x.write('hello world') 
+
+x.close() 
+
+ 
+
+y= open('file.txt', 'r') 
+
+Print(y.read()) 
+
+y.close() 
