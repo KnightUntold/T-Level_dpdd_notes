@@ -1,0 +1,63 @@
+Relational operators return true or false after comparing 2 values. 
+
+
+equals 
+  
+  = 
+  
+  == 
+  
+  If x = 4 and y = 7, x == y returns False 
+  
+  If x = 7 and y = 7 then x == y returns true 
+
+Not equal 
+
+  <> 
+  
+  != 
+  
+  If x = 4 and y = 7 then x != y returns true 
+  
+  If x = 7 and y = 7 then x != y returns false 
+
+Less than 
+
+  < 
+  
+  < 
+  
+  if x = 4 and y = 7 then x < y returns true 
+  
+  if x = 7 and y = 7 then x < y returns false 
+  
+  Less than or equal to 
+  
+  <= 
+  
+  <= 
+  
+  if x = 4 and y = 7 then x <= y returns true 
+  
+  if x = 7 and y = 7 then x <= y returns true 
+
+Greater than 
+
+  > 
+  
+  > 
+  
+  if x = 4 and y = 2 then x > y returns true 
+  
+  if x = 7 and y = 7 then x > y returns false 
+
+Greater than or equal to 
+
+  >= 
+  
+  >= 
+  
+  if x = 4 and y = 2 then x >= y returns true 
+  
+  if x = 7 and y = 7 then x >= y returns true 
+
