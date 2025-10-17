@@ -1,0 +1,48 @@
+
+
+add 
+
+  a= x + y 
+  
+  If x = 6 and y = 2 then a = 8 
+
+subtract 
+  
+  a= x - y 
+  
+  If x = 6 and y = 2 then a = 4 
+
+divide 
+
+  a= x / y 
+  
+  If x = 6 and y = 2 then a = 3 
+
+multiply 
+
+  a= x * y 
+  
+  If x = 6 and y = 2 then a = 12 
+
+Integer division 
+
+  a= x // y 
+  
+  If x = 17 and y = 3 then a = 5 
+
+  It returns the whole number part after division 
+
+modulus 
+
+  a= x % y 
+  
+  If x = 17 and y = 3 then a = 2 
+  
+  It returns the remainder after division 
+
+exponent 
+
+  a= x**y 
+  
+  If x = 2 and y = 3 then a = 8  
+
