@@ -1,0 +1,65 @@
+Resulting service (final product) 
+
+When a game is near completion it needs to opened by other types of testing.  
+
+Beta testing is a huge part of it where it is used by members of the public and groups of end users. It is a form of “user acceptance testing (AUT)” 
+
+Traditional beta testing – given to customers/ end user and tested 
+
+Public – given to select groups to test and feedback 
+
+Technical – given to groups of employees to test 
+
+Focused – Only sections of the solution are given for testing 
+
+Post-realise – The product goes live and data is collected and then used for improvement 
+
+ 
+
+User acceptance testing (AUT) 
+
+UAT is often called beta or application or end-user testing 
+
+Often the last phase before production 
+
+Many insights are gained from it which might not of been thought of before now or be unable to collect before now the product wasn’t close enough to be finished. Often seem in the games industry.  
+
+ 
+
+Functional testing 
+
+Mostly black box testing 
+
+Tests things like ui, api, database, security etc 
+
+Sompares the systems designed inputs with the expected outputs 
+
+Benefits 
+
+Improved software quality 
+
+Increased user satisfaction 
+
+Reduced development costs 
+
+Enhanced maintainability 
+
+Improved risk management 
+
+Increased customer confidence 
+
+Reduced support costs 
+
+ 
+
+Selecting tools 
+
+Compatibility with os 
+
+Versatility 
+
+Compatibility with a variety of platforms 
+
+Test creation 
+
+Maintence cost 
