@@ -1,0 +1,23 @@
+Sequence – an ordered list of instructions 
+
+  Order is important for desired outcome to be achieved.  
+  
+  No instruction is missed/skipped 
+
+ 
+
+Selection (or branching) - path through the program is determined by a condition 
+
+   Condition returns true or false to determine which code to execute 
+  
+  Some code may not be executed 
+
+ 
+
+Iteration – section of code that is repeated 
+
+  For a fixed number of times 
+  
+  Until a condition is met 
+  
+  While a condition is true 
