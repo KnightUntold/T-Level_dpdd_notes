@@ -1,0 +1,131 @@
+Software testing 
+
+Does it meet the requirements? 
+
+Is it bug free? – working on bug fixes early can save money and time 
+
+ 
+
+Software testing is the “verification of the application under test” (AUT) 
+
+ 
+
+Benefits gained: 
+
+  Security 
+  
+  Cost effective 
+  
+  Product quality 
+  
+  Customer satisfaction (UX) 
+  
+  Compatibility testing 
+  
+  Covers many aspects to ensure all parts are working together 
+
+
+
+Types include: 
+
+  Hardware 
+  
+  OS 
+  
+  Software 
+  
+  Network 
+  
+  Browsers 
+  
+  Devices 
+  
+  Mobile 
+  
+  Software versions 
+  
+  Data 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Hardware 
+
+  Important to test as many variations as possible 
+  
+  Should also backwards compatibility test to ensure if older hardware is compatible 
+  
+  And also forward compatibility test to ensure newer hardware is compatible as new hardware is released 
+
+ 
+
+Operating systems 
+  
+  Customers / end users use a variety of platforms 
+  
+  Important that you test the platform they suggest and have told you 
+  
+  If you are developing “cross platform”, which is often web/ java/ python you need to make sure its compatible. 
+
+ 
+
+Software 
+
+  Your solution may require other software to work 
+  
+  Someone else’s might need yours to work 
+  
+  You need to test that they are working together effectively 
+
+ 
+
+Network 
+
+  If your solution uses network features, its important to make sure they are communicating properly.  
+  
+  Also important to check the bandwidth requirements of your solutions and check for inefficiencies 
+  
+  Also needs to be checked on different network types and speeds (WIFI, internet, ethernet)  
+
+ 
+
+Browser 
+
+  Is your solution is web based then the browser has to be compatible 
+  
+  Most users use chrome or edge which need slightly different html implementations 
+  
+  You have to accommodate for then just the most common (Firefox, brave, internet explorer) should be considered as well as mobile versions of browsers too. 
+
+ 
+
+Devices 
+
+  To check the compatibility of a wide range of devices. 
+  
+  In the most part drivers are built into the OS should deal with it. However you still need to make sure its working and some devices wont be compatible with it.  
+
+ 
+
+Mobile 
+
+  If you are developing cross platform, a mobile version will most likely be needed 
+  
+  Needs to suitable for iOS and android and even in some cases old windows ce devices 
+  
+  Should allow for a variety of input systems (touchscreen, Bluetooth, voice etc) and for both portrait and landscape usage effectively.  
+
+ 
+
+Software versions  
+
+  End users devices may have all sorts of versions of other software, which yours has to work with so its important to make sure they can work together and work with a mast majority of software versions.  
+
+ 
+
+ 
+
+Data 
+
+  All manor of data needs to be used to test the solution. 
+
+Normal, erroneous, extreme and boundary data are all data types that should be used to test the system to ensure robustness and compliance. 
