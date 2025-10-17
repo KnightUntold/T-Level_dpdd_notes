@@ -1,0 +1,61 @@
+top-down 
+---------
+breaking down the main problem into smaller sub problems 
+
+plan everything out before you start coding 
+
+benefits 
+
+  easy to visualise all components 
+
+  Easier to manage and prepare 
+
+  Reduces complexity 
+
+Drawbacks 
+
+  Redundancies 
+  
+  Takes longer to plan 
+  
+  Not flexible 
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+bottom-up 
+---------
+solving smaller problems and integrating the into a bigger solution 
+
+benefits 
+
+  flexible 
+  
+  parallel development 
+  
+  code reusability 
+
+Drawbacks 
+
+  problems integrating systems 
+  
+  complexity 
+  
+  lack of focus 
+
+---------------------------------------------------------------------------------------------------------------------------------------------- 
+
+modularisation 
+--------------
+benefits 
+
+  elements can be given to different programmers to speed up processes 
+  
+  individual debugging is more effective 
+  
+  programmers can be given parts of the problem that they are specialised in 
+
+drawbacks 
+
+  assumes you know everything in advance  
+
+not always appropriate with event-driven programming 
