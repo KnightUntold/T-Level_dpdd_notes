@@ -1,0 +1,127 @@
+ISO – International standards organization 
+
+ 
+  
+  ISO developed the 27000 categories for standards (gotta learn 12)  
+  
+   
+  
+  Consequences of a cyber attack can be devastating 
+  
+   
+  
+  The internet is difficult to monitor 
+  
+   
+  
+  Relatively new, less time to test systems 
+
+ 
+
+ 
+
+W3C – World Wide Web Consortium 
+
+   
+    
+    The internet is the network that connects clients together. 
+    
+    The www is a small part of the internet that is safe and can be used to get information but you can't buy organs on it 
+    
+    URL – uniform resource locator  
+    
+    HTTP – hypertext transfer protocol 
+    
+    HTML – hypertext markup language  
+  
+   
+  
+  W3C standards cover: 
+  
+    Web design and application 
+    
+    Web architecture 
+    
+    Semantic web  
+    
+    Extensible markup language (xml) technology 
+    
+    Web of service 
+    
+    Browser and authoring tools  
+
+ 
+
+WCAG 1.0 & 2.0 - Web content accessibility guidelines 
+
+  Made by the w3c to make websites more accessible.  
+  
+  V1 were written in 1999 to help people with disabilities  
+  
+   
+  
+    Provide alternatives to visual and auditory content 
+    
+    Don’t rely on color alone  
+    
+    Use markups and stylesheets and use them properly  
+    
+    Clarify natural language usage  
+    
+    Create tables that transform gracefully 
+    
+    Ensure that pages featuring new technology transforms gracefully  
+  
+   
+  
+  Perceivable (make content available to everyone) 
+  
+  Provide text alternatives for any non-text content 
+  
+  Provide alternatives for video, audio, slides or film 
+  
+  Create content that can be presented in different ways with simpler layouts, without losing information or structure 
+  
+  Make it easier for users to see and hear content, including separating foreground from background 
+  
+   
+  
+  Operable (make it possible for everyone to navigate the internet) 
+  
+  Make it keyboard accessible 
+  
+  Allow time for users to read content 
+  
+  Make it easier for users to navigate using methods other than keyboard and mouse 
+  
+   
+  
+  Understandable (info and navigation must be understandable to everyone) 
+  
+  Make the content readable and understandable  
+  
+  Make pages appear and operate in a predictable way 
+  
+  Help users avoid and correct mistakes 
+  
+   
+  
+  Robust (ability for a system to cope with errors and erroneous inputs) 
+  
+  The content must be robust enough to be interpreted reliably by a wide variety of methods, including assistive technology.  
+  
+   
+
+ 
+
+IETF – Internet engineering taskforce 
+  
+  Main areas of interest for the IETF 
+  
+  Augmented network management 
+  
+  The internet of things 
+  
+  New network transport technologies 
+  
+  Security and privacy 
