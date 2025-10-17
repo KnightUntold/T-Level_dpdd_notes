@@ -1,0 +1,24 @@
+Computer programs process data. There are 5 main types of data. The type of data depends on what processing is needed to turn inputs into outputs and meeting storage requirements.  
+
+
+String 
+
+A string is a collection of alphanumeric characters. These can be words, letters symbols etc.  
+
+Example: "hi there", "hello world!", a postcode etc 
+
+
+Integer 
+
+An integer is a whole number. No decimals or fractions.  
+
+
+Boolean – only 2 choices eg true/false, yes/no 
+
+Character – single character 
+
+Integer – whole numbers, positive or negative 
+
+Real/float - any numbers, including decimals 
+
+String – group of characters togethers 
