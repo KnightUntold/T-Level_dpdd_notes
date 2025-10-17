@@ -1,0 +1,55 @@
+Benefits of testing:  
+
+  Finding faults  
+  
+  Easy to locate issues 
+  
+  Makes sure code is robust  
+  
+  Takes less time to fix bugs 
+  
+  Makes sure all requirements are met 
+  
+  Fix small problems before they become big problems 
+  
+  Gets esp marks (don’t put this on exam) 
+  
+  Generates data 
+  
+  Ensuring the code works as intended 
+  
+  Ensuring that the output is accessible to users 
+  
+  Makes it maintainable 
+  
+  Customer satisfaction 
+  
+  Ensures that the code is lawful 
+  
+  Security 
+  
+  Compatibility  
+  
+  Identification of additional features  
+  
+  Increases software quality 
+  
+  Improve risk management 
+  
+  Reduced support costs 
+
+ 
+
+Test data to be used 
+
+Valid (normal) 
+
+Valid (extreme)/ boundary 
+
+Invalid 
+
+Invalid extreme 
+
+Erroneous data eg wrong format 
+
+Absent 
