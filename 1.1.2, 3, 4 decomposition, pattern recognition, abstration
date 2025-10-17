@@ -1,0 +1,81 @@
+4 techniques, known as pillars, that are utilised as a part of computational thinking 
+
+ -----------------------------------------------------------------------------------------------------------------------------
+
+Decomposition – breaking down problems into smaller parts 
+
+Pattern recognition 
+
+Abstraction 
+
+Algorithms  
+
+------------------------------------------------------------------------------------------------------------------------------------ 
+
+Decomposition  
+--------------
+Benefits 
+
+  Deep level of understanding for your problem 
+  
+  Different people can work on different parts of the problem 
+  
+  Test and maintain different components separately 
+
+Drawbacks 
+
+  Too much breaking down can mean that when it is put back together, it doesn’t fix the problem. Break it more. 
+
+4 steps of decomposition 
+------------------------
+  Identify problem 
+  
+  Break it down 
+  
+  Describe modules 
+  
+  communicate 
+
+ 
+
+example – video game 
+
+identify the problem - the character models arm breaks when it grabs an item 
+
+break it down – the model has no grab animation to default too, its arm just goes towards the item from any distance. 
+
+Describe modules – make a grab animation for the model, make the character only to be able to grab an item when within range to grab it.  
+
+Communicate – communicate with the modelling team to make a grab model.  
+
+ ------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Pattern recognition 
+-------------------
+Recognising similarities within something eg chests in video games usually means theres loots in it. Or the yellow paint to tell you where to go. 
+
+Pattern recognition can be used in many forms.  
+
+Looking for patterns or trends in data to identify solutions.  
+
++ efficiency 
+
++ accurate predictions based on previous data 
+
+Only predictions 
+
+Steps of pattern recognition 
+----------------------------
+  Identifying and interpreting common elements in problems or systems  
+  
+  Identifying individual elements in the patterns 
+  
+  Describing patterns that have been identified 
+  
+  Making predictions based on identified patterns 
+
+ -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Abstraction 
+
+Filtering/ ignoring irrelevant information  
