@@ -1,0 +1,37 @@
+ 
+
+Places to get prewritten code: 
+
+  Built in libraries; https://docs.python.org/3/library/index.html 
+  
+  Third party Libraries; https://numpy.org/ 
+  
+  Open source frameworks; python 
+  
+  Repurposing code that has been written internally 
+
+ 
+
+Benefits 
+
+  Shorter development time 
+  
+  Improved end product – efficiency, security, improved maintainability 
+  
+  Lower staffing requirements – not always, but potentially  
+
+ 
+
+Drawbacks 
+
+  Clashing code/ syntax 
+  
+  Harder to understand 
+  
+  Security 
+  
+  Over reliance on libraries  
+  
+  Not always efficient or trustworthy results 
+
+  Lack of control on pre-written impacts in your code 
